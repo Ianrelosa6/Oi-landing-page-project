@@ -197,7 +197,7 @@ z-index: 55;
 @keyframes glow{
     50%{
         
-      background: url(/IMG/laser-eyes.png);
+      background: url(./IMG/laser-eyes.png);
       background-repeat: no-repeat;
       background-size: contain;
       width: 12px;
