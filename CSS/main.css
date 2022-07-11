@@ -132,7 +132,7 @@ header a:hover{
     display: flex;
     align-items: center;
     width: 100%;
-    background-image: url(./IMG/Homelanderbg.jpg);
+    background-image: url(../IMG/Homelanderbg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -155,7 +155,7 @@ header a:hover{
     min-width: 609px;
 height: 425px;
    position: relative;
-   background: url(./IMG/homelandernoeyes.png);
+   background: url(../IMG/homelandernoeyes.png);
  background-repeat: no-repeat;
 background-size: contain;
 
@@ -197,7 +197,7 @@ z-index: 55;
 @keyframes glow{
     50%{
         
-      background: url(./IMG/laser-eyes.png);
+      background: url(../IMG/laser-eyes.png);
       background-repeat: no-repeat;
       background-size: contain;
       width: 12px;
